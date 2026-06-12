@@ -4,6 +4,8 @@
 ## Journey Update 6/12/2026: 
 Currently learning foundational Knowledge on TryHackMe. I am 45% through Pre-Security, learning about How Website Work. 
 
+## Bio
+
 I am an IT Services and nonprofit professional with a strong foundation in strategy, operations, and learning & development. My career has centered on building effective systems, improving organizational processes, and developing people through structured learning and clear communication.
 
 As I continue to grow professionally, I am actively working toward becoming a cybersecurity professional, with a focus on protecting digital assets, strengthening organizational resilience, and promoting safe and secure technology practices. This goal reflects my passion for leveraging technology to create both opportunity and protection within the community.
