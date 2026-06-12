@@ -1,7 +1,8 @@
 ## Hi, I'm Sean👋
 <a href="https://www.linkedin.com/in/sean-spencer-fk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Update on Journey: Currently learning foundational Knowledge on TryHackMe. 
+## Journey Update 6/12/2026: 
+Currently learning foundational Knowledge on TryHackMe. I am 45% through Pre-Security, learning about How Website Work. 
 
 I am an IT Services and nonprofit professional with a strong foundation in strategy, operations, and learning & development. My career has centered on building effective systems, improving organizational processes, and developing people through structured learning and clear communication.
 
